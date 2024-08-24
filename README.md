@@ -1,6 +1,6 @@
 # safe-squidlabs
 
-#ASSENMENT :1
+# ASSENMENT :1
 
 #!/bin/bash
 
@@ -133,7 +133,7 @@ refresh_dashboard
 
 
 
-ASSENMENT-2 
+# ASSENMENT-2 
 
 
 #!/bin/bash
